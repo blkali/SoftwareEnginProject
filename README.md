@@ -9,5 +9,7 @@ About the project: Library management project with the following capabilities:
 3- Search in different sections such as book name, book author, book category
 
 "# Requirements : "
+
 1- .Net Framework
+
 2- stimulsoft report program for printing
